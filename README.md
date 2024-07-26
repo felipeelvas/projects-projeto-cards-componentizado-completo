@@ -1,6 +1,6 @@
-# ProjetoCards
+# ProjetoCards: Painel de Cards Part 2 - Aplicando Projeção de Conteúdo e Diretivas.
 
-#Projeto: Painet de Cards Part 2 - Aplicando Projeção de Conteúdo e Diretivas.
+#Projeto: Painel de Cards Part 2 - Aplicando Projeção de Conteúdo e Diretivas.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
